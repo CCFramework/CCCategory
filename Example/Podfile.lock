@@ -1,0 +1,13 @@
+PODS:
+  - CCCategory (0.0.3):
+    - GTMBase64 (~> 1.0.0)
+  - GTMBase64 (1.0.0)
+
+DEPENDENCIES:
+  - CCCategory
+
+SPEC CHECKSUMS:
+  CCCategory: fea595933cea3489f53da4239fa30d673988f8c5
+  GTMBase64: 0da7372e95f5171f3f652db38cde6716f8eb5e24
+
+COCOAPODS: 0.39.0
