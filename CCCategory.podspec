@@ -17,7 +17,7 @@ s.license      = { :type => "MIT", :file => "LICENSE" }
 s.author             = { "MuZiLee" => "admin@sanshengit.com" }
 s.platform     = :ios, "7.0"
 s.source       = { :git => "https://github.com/CCFramework/CCCategory.git", :tag => "0.1" }
-s.source_files  = "CCCategory", "Class/*.{h,m}"
+s.source_files  = "CCCategory", "Class/*.{h,m}", "Class/*/*.{h,m}"
 
 s.framework  = "UIKit"
 
